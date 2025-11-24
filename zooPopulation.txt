@@ -1,0 +1,29 @@
+Bear Habitat:
+Be01; Yogi; age 7; birth date 2017-03-15; brown color; male; 320 pounds; from Alaska Zoo, Alaska; arrived 2024-03-05
+Be02; Smokey; age 25; birth date 1999-03-15; black color; female; 425 pounds; from Woodland park Zoo, Washington; arrived 2024-03-05
+Be03; Paddington; age 4; birth date 2020-09-15; black color; female; 355 pounds; from Woodland park Zoo, Washington; arrived 2024-03-05
+Be04; Lippy; age 4; birth date 2020-03-15; brown color; male; 405 pounds; from Alaska Zoo, Alaska; arrived 2024-03-05
+Total Bear count: 4
+
+Hyena Habitat:
+Hy01; Shenzi; age 4; birth date 2020-03-15; tan color; female; 70 pounds; from Friguia Park, Tunisia; arrived 2024-03-05
+Hy02; Banzai; age 12; birth date 2012-09-15; brown color; male; 150 pounds; from Friguia Park, Tunisia; arrived 2024-03-05
+Hy03; Ed; age 4; birth date 2020-03-15; black color; male; 120 pounds; from Friguia Park, Tunisia; arrived 2024-03-05
+Hy04; Zig; age 8; birth date 2016-06-15; black and tan striped color; female; 105 pounds; from Friguia Park, Tunisia; arrived 2024-03-05
+Total Hyena count: 4
+
+Lion Habitat:
+Li01; Scar; age 6; birth date 2018-03-15; tan color; female; 300 pounds; from Zanzibar, Tanzania; arrived 2024-03-05
+Li02; Mufasa; age 12; birth date 2012-12-15; dark tan color; female; 375 pounds; from KopeLion, Tanzania; arrived 2024-03-05
+Li03; Simba; age 22; birth date 2002-09-15; golden color; male; 450 pounds; from Zanzibar, Tanzania; arrived 2024-03-05
+Li04; Kiara; age 4; birth date 2020-03-15; tan and brown color; female; 275 pounds; from KopeLion, Tanzania; arrived 2024-03-05
+Total Lion count: 4
+
+Tiger Habitat:
+Ti01; Tony; age 2; birth date 2022-03-15; gold and tan stripes color; male; 270 pounds; from Dhaka, Bangladesh; arrived 2024-03-05
+Ti02; Tigger; age 4; birth date 2020-03-15; black stripes color; female; 400 pounds; from Dhaka, Bangladesh; arrived 2024-03-05
+Ti03; Amber; age 18; birth date 2006-09-15; gold and tan color; male; 300 pounds; from Bardia, Nepal; arrived 2024-03-05
+Ti04; Cosimia; age 3; birth date 2021-03-15; black stripes color; female; 285 pounds; from Bardia, Nepal; arrived 2024-03-05
+Total Tiger count: 4
+
+Total animals in zoo: 16
